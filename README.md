@@ -24,3 +24,9 @@ the cycle size can be specifyed with the ``-f`` option:
 by default the program will reqest vsync with ``present_vsync()``.
 
 this can be disabled with `` -n ``
+
+## results
+
+colorfull stripes:                  fail, no vsync (have you passed ``-n``)
+solid gray:                         pass, you have vsync
+solid gray, with color flashes:     vsync with frame drops
