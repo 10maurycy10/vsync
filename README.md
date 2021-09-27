@@ -17,7 +17,7 @@ the cycle size can be specifyed with the ``-f`` option:
 
 2 frame : alternates #FF0000 and #00FFFF this should result in a gray window. (more relable, default)
 
-3 frame: alternates #FF0000 and #00FFFF this should result in a gray window. (double frame drops)
+3 frame: alternates #FF0000, #00FF00 ,and #00FFFF this should result in a gray window. (double frame drops)
 
 ## reqest vsync
 
