@@ -27,6 +27,6 @@ this can be disabled with `` -n ``
 
 ## results
 
-colorfull stripes:                  fail, no vsync (have you passed ``-n``)
+colorfull stripes:                  your system is horibly misconfigured (have you passed ``-n``)
 solid gray:                         pass, you have vsync
-solid gray, with color flashes:     vsync with frame drops
+solid gray, with color flashes:     fail or you have, you have frame drops
